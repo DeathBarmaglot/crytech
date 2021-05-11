@@ -50,8 +50,8 @@ if(document.addEventListener ){
    };
 
    aLoader = [
-      { load: "https://rawcdn.githack.com/DeathBarmaglot/Vik.io/c1f66b24283110aa79ec41c762ba0a720d56ec55/edge_includes/jquery-2.0.3.min.js"},
-      { load: "https://rawcdn.githack.com/DeathBarmaglot/Vik.io/c1f66b24283110aa79ec41c762ba0a720d56ec55/edge_includes/edge.4.0.0.min.js"},
+      { load: "edge_includes/jquery-2.0.3.min.js"},
+      { load: "edge_includes/edge.4.0.0.min.js"},
       { load: "index_edge.js"},
       { load: "index_edgeActions.js"}];
 
